@@ -1,10 +1,10 @@
+<div style="backcground-color='#000'">
 
-<body style="background-color:black">
 <img align="right" src="./resources/perfil.png"/>
 <h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> sou o Paulo!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulobazooka&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 **Analista de Desenvolvimento** *em constante aprendizado* 
+- **Analista de Desenvolvimento** *em constante aprendizado* 
 
 - 🔭 Atualmente trabalho na [Unicamp](https://unicamp.br)
 
@@ -47,4 +47,4 @@
  <img align="center" src="https://img.shields.io/badge/-paulobazooka-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
-</body>
+</div>
