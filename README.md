@@ -1,4 +1,5 @@
 
+<body style="background-color:black">
 <img align="right" src="./resources/perfil.png"/>
 <h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> sou o Paulo!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulobazooka&color=yellow" alt="Profile views" /> </p>
@@ -14,14 +15,17 @@
 
 ## 🛠 &nbsp;Tecnologias
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-vue.js-05122A?style=flat&logo=vue.js)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)&nbsp;
+![NodeJs](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)
-
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
@@ -43,3 +47,4 @@
  <img align="center" src="https://img.shields.io/badge/-paulobazooka-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
+</body>
